@@ -1,0 +1,14 @@
+account_code: 6100
+account_name: Office Supplies
+description: Costs for consumable items used in day-to-day operations.
+examples:
+  - Paper, pens, notebooks
+  - Printer ink
+  - Desk accessories
+counterexamples:
+  - Computer equipment (book under IT hardware)
+  - Furniture (book under Office Equipment)
+tags:
+  - opex
+  - admin
+reporting_category: ManagementExpenses
